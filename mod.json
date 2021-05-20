@@ -1,0 +1,7 @@
+{
+	"name": "YekaterinaMod",
+	"label": "Yekaterina",
+	"version": "7.0.0",
+	"description": "Changes proposed by Balancing advisors, programmed by Yekaterina",
+	"dependencies": ["0ad>=0.0.24"]
+}
