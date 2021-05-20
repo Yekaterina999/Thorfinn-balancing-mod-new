@@ -24,7 +24,7 @@
   <Identity>
     <Civ>iber</Civ>
     <SpecificName>Soliferreum</SpecificName>
-    <Icon>units/kush_infantry_javelinist.png</Icon>
+    <Icon>units/iber_soliferrum.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <VisualActor>

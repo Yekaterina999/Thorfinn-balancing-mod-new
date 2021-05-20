@@ -7,7 +7,7 @@
 	},
 	"requirements": { "tech": "phase_town" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
-	"icon": "nisean_war_horses.png",
+	"icon": "marathon.png",
 	"researchTime": 40,
 	"tooltip": "Champions +10% walk speed.",
 	"modifications": [
