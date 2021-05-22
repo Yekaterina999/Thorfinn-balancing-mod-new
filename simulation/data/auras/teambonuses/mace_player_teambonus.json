@@ -4,11 +4,11 @@
 	"affectedPlayers": ["MutualAlly"],
 	"civ": "mace",
 	"modifications": [
-		{ "value": "Player/BarterMultiplier/Sell/food", "multiply": 1.15 },
-		{ "value": "Player/BarterMultiplier/Sell/wood", "multiply": 1.15 },
-		{ "value": "Player/BarterMultiplier/Sell/stone", "multiply": 1.15 },
-		{ "value": "Player/BarterMultiplier/Sell/metal", "multiply": 1.15 }
+		{ "value": "Player/BarterMultiplier/Sell/food", "multiply": 1.09 },
+		{ "value": "Player/BarterMultiplier/Sell/wood", "multiply": 1.09 },
+		{ "value": "Player/BarterMultiplier/Sell/stone", "multiply": 1.09 },
+		{ "value": "Player/BarterMultiplier/Sell/metal", "multiply": 1.09 }
 	],
 	"auraName": "Standardized Currency",
-	"auraDescription": "+15% barter sell prices."
+	"auraDescription": "+9% barter sell prices."
 }
