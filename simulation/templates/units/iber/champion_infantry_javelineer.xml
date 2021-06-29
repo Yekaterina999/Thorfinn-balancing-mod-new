@@ -5,8 +5,8 @@
       <AttackName context="Name of an attack using Iberian special weapon">Javelin</AttackName>
       <Damage>
       	<Hack>1</Hack>
-        <Pierce>26</Pierce>
-        <Crush>2</Crush>
+        <Pierce>24</Pierce>
+        <Crush>1</Crush>
       </Damage>
       <MaxRange>30</MaxRange>
       <PrepareTime>500</PrepareTime>
